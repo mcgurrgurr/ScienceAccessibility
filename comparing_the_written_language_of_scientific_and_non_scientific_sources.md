@@ -68,7 +68,8 @@ We include a number of available reference texts with a-priori assumptions about
 | Text Source | Mean Complexity | Unique Words |
 |----------|----------|:-------------:|
 | Upgoer 5                                     | 7                               | 35,103 |
-| Wikipedia                                    | 14.9                         | -  |
+| Readability Declining Over Time                                    | 7.0                         | -  |
+| Science of Writing                                    | 14.0                         | -  |
 | Post-Modern Essay Generator | 16.5                          | -  |
 | Art Corpus                                  | 18.68                        | 2,594 |
 
